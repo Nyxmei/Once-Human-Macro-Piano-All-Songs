@@ -49,8 +49,9 @@ I've created a Python script that enables you to play all the songs on the Once 
 
 # License
 
-  - This project is under [MIT]().
+ - This project is under [MIT](https://github.com/Myinx/Once-Human-Macro-Piano-All-Songs/blob/main/LICENSE)
     
   - © Netease Co., Ltd. This project is not affiliated with Tencent or endorsed by them. Once Human and other properties mentioned here belong to their respective owners.
     
   - This project uses third-party libraries and resources that may have different licenses
+
