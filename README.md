@@ -26,7 +26,7 @@ I've created a Python script that enables you to play all the songs on the Once 
   F5 = Play & F6 = Stop
 
 # Tutorial
- - [here]()
+ - [here](https://youtu.be/TJzKLVNi1IM)
 
 # Links
  
